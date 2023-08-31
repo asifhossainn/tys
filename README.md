@@ -1,1 +1,0 @@
-# TechStack Automation
